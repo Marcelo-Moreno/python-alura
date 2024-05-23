@@ -1,0 +1,9 @@
+# Ignora todos os arquivos png e jpg
+
+*.jpg
+*.png
+
+# Ignora o diretório "codigo_professores"
+
+Python_curso1_primeira_aplicacao/codigo_professores/
+Python_curso2_OO/oo-sabor-express/codigo_professores/
